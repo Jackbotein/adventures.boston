@@ -1,4 +1,3 @@
-<!-constants begin->
 body {
 background-color: white;
 }
@@ -35,12 +34,6 @@ font-family: phosphate-solid;
 .header {
 background-color: lightblue;
 }
-
-a {
-text-decoration: none;
-color: black;
-}
-<!-constants end->
 
 .listing1 {
 background-color: black;
@@ -84,4 +77,9 @@ margin-top: -2.5%;
 
 .booknowtext:hover {
 text-decoration: underline;
+}
+
+a {
+text-decoration: none;
+color: black;
 }
