@@ -42,6 +42,8 @@ color: black;
 }
 <!-constants end->
 
+<!-listing 1 begin->
+
 .listing1 {
 background-color: black;
 border-style: solid;
@@ -85,3 +87,53 @@ margin-top: -2.5%;
 .booknowtext:hover {
 text-decoration: underline;
 }
+
+<!-listing 1 end->
+
+<!-listing 2 begin->
+
+.listing2 {
+background-color: black;
+border-style: solid;
+width: 70%;
+}
+
+.titlecontainer2 {
+border-style: solid;
+}
+
+.imagecontainer2 {
+border-style: solid;
+}
+
+.tagscontainer2 {
+background-color: black;
+border-style: solid;
+height: 50px;
+}
+
+.price {
+margin-top: -5%;
+margin-right: 0%;
+}
+
+.booknowtext {
+font-family: phosphate-solid;
+color:white;
+font-size: 200%;
+margin-top: 1%;
+transition-property: font-size;
+transition-duration: .5s;
+transition-delay: 0s;
+}
+
+.rating {
+margin-left: -70%;
+margin-top: -2.5%;
+}
+
+.booknowtext:hover {
+text-decoration: underline;
+}
+
+<!-listing 2 end->
