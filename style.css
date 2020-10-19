@@ -84,7 +84,7 @@ font-size: 150%;
 }
 
 .missionheadertext:hover {
-font-size: 160%;
+text-decoration: underline;
 }
 
 .listinwithusheadertext {
@@ -93,7 +93,7 @@ font-size: 150%;
 }
 
 .listinwithusheadertext:hover {
-font-size: 160%;
+text-decoration: underline;
 }
 
 
@@ -103,6 +103,6 @@ font-size: 150%;
 }
 
 .termsheadertext:hover {
-font-size: 160%;
+text-decoration: underline;
 }
 
