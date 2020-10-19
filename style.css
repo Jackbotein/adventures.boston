@@ -78,9 +78,14 @@ text-decoration: none;
 color: black;
 }
 
+.navigation {
+margin-top: 10%;
+}
+
 .missionheadertext {
 font-family: phosphate-solid;
 font-size: 150%;
+font-color: white;
 }
 
 .missionheadertext:hover {
@@ -90,6 +95,7 @@ text-decoration: underline;
 .listinwithusheadertext {
 font-family: phosphate-solid;
 font-size: 150%;
+font-color: white;
 }
 
 .listinwithusheadertext:hover {
@@ -100,6 +106,7 @@ text-decoration: underline;
 .termsheadertext {
 font-family: phosphate-solid;
 font-size: 150%;
+font-color: white;
 }
 
 .termsheadertext:hover {
