@@ -26,7 +26,7 @@ line-height: 125%;
 }
 
 .header {
-background-color: lightblue;
+background-color: black;
 }
 
 .listing {
@@ -77,3 +77,32 @@ a {
 text-decoration: none;
 color: black;
 }
+
+.missionheadertext {
+font-family: phosphate-solid;
+font-size: 150%;
+}
+
+.missionheadertext:hover {
+font-size: 160%;
+}
+
+.listinwithusheadertext {
+font-family: phosphate-solid;
+font-size: 150%;
+}
+
+.listinwithusheadertext:hover {
+font-size: 160%;
+}
+
+
+.termsheadertext {
+font-family: phosphate-solid;
+font-size: 150%;
+}
+
+.termsheadertext:hover {
+font-size: 160%;
+}
+
